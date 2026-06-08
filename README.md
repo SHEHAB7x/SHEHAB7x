@@ -1,7 +1,7 @@
 # Hi there! I'm Shehab Abdelhares 👋
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&lines=Android+Developer;Kotlin+&+Jetpack+Compose;Clean+Code+Advocate;Building+User+Centric+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&lines=Android+Developer;Kotlin+&+Compose;Architecting+Scalable+Solutions;Building+Impactful+Apps" />
 </h3>
 
 <p align="center">
@@ -16,7 +16,19 @@
 
 ---
 
-## 🛠 Tech Stack
+## 👨‍💻 About Me
+* 📱 **Android Developer** specialized in **Kotlin** and **Jetpack Compose**.
+* 🏗️ Experienced with **Clean Architecture**, **MVVM**, and **MVI** patterns.
+* ⚡ Building scalable, maintainable, and user-friendly mobile applications.
+* 🌱 Currently developing **ZAD**, a comprehensive Islamic application.
+* 🎯 Passionate about continuous learning and software engineering best practices.
+
+## 💼 Availability & Focus
+* 🚀 **Open to opportunities:** Yes, actively looking for Android Developer roles.
+* 🌍 **Location:** Based in Egypt, Cairo/Giza (Open to Remote).
+* 🛠 **Focus:** Modern Android Development (Kotlin, Jetpack Compose, MVI).
+
+---
 
 **Core Development:**
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -62,6 +74,11 @@
 </p>
 
 ---
+
+### 📬 Let's Connect!
+Whether you're looking for an Android Developer, have a project idea, or just want to chat about tech—**feel free to reach out!** 
+
+[LinkedIn](https://www.linkedin.com/in/shehab0x/) | [Email](mailto:sabdalhares@gmail.com)
 
 <p align="center">
   <i>"Code is not just about making things work, it's about making them maintainable, scalable, and meaningful."</i>
