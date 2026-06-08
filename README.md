@@ -65,12 +65,7 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHEHAB7x&theme=dark&show_icons=true&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHEHAB7x&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHEHAB7x&theme=dark&hide_border=true&layout=compact" />
 </p>
 
 ---
