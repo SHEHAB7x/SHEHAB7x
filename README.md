@@ -1,138 +1,65 @@
-# Hi 👋, I'm Shehab Abdelhares
+# Hi there! I'm Shehab Abdelhares 👋
 
-### Android Developer | Kotlin | Jetpack Compose
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&lines=Android+Developer;Kotlin+&+Jetpack+Compose;Clean+Code+Advocate;Building+User+Centric+Apps" />
+</h3>
 
-Passionate Android Developer focused on building modern, scalable, and maintainable mobile applications using the latest Android technologies.
+<p align="center">
+  Passionate about crafting modern, scalable, and high-performance mobile applications. I specialize in turning complex requirements into clean, maintainable, and user-centric Android experiences.
+</p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shehab0x/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:sabdalhares@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/SHEHAB7x">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shehab0x/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sabdalhares@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/SHEHAB7x"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🛠 Tech Stack
 
-* 📱 Android Developer specialized in **Kotlin** and **Jetpack Compose**
-* 🏗️ Experienced with **Clean Architecture**, **MVVM**, and **MVI**
-* ⚡ Building scalable, maintainable, and user-friendly mobile applications
-* 🔥 Experienced with **Firebase**, **Retrofit**, **Room**, **Coroutines**, and **Hilt**
-* 🌱 Currently developing **ZAD**, a comprehensive Islamic application
-* 🎯 Passionate about continuous learning and software engineering best practices
+**Core Development:**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+
+**Architecture & Patterns:**
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=flat-square)
+![MVVM](https://img.shields.io/badge/MVVM-6200EE?style=flat-square)
+![MVI](https://img.shields.io/badge/MVI-009688?style=flat-square)
+
+**Tools & Libraries:**
+![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=flat-square)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=flat-square)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🕌 ZAD
-
-A comprehensive Islamic application built with:
-
-* Jetpack Compose
-* MVI Architecture
-* Room Database
-* Modern Android Development
-
-### 📰 Nexa
-
-Modern news application built with:
-
-* Jetpack Compose
-* Clean Architecture
-* REST APIs
-* Material Design
-
-### 🚗 CarLog
-
-Graduation project for monitoring and analyzing driver behavior.
-
-Features:
-
-* OBD-II Integration
-* Driver Performance Analysis
-* Trip History Tracking
-* Driver Rating System
-
-### 🏥 Hospital Management System
-
-Hospital management application supporting multiple user roles:
-
-* Doctor
-* Nurse
-* HR
-* Manager
-* Receptionist
-* Analyst
-
-Built using:
-
-* Kotlin
-* Clean Architecture
-* MVVM
-* Hilt
-* Retrofit
+*   **[ZAD](https://github.com/SHEHAB7x/ZAD)**: A comprehensive Islamic application.
+    *   *Tech:* Jetpack Compose, MVI, Room, Dependency Injection.
+*   **[Nexa](https://github.com/SHEHAB7x/Nexa)**: A modern news platform.
+    *   *Tech:* Clean Architecture, REST APIs, Material Design 3.
+*   **[CarLog](https://github.com/SHEHAB7x/CarLog)**: Advanced driver behavior monitoring system.
+    *   *Highlights:* OBD-II integration & Trip Analytics.
+*   **[Hospital Management System](https://github.com/SHEHAB7x/Hospital-Management)**: Multi-role hospital admin platform.
+    *   *Highlights:* Role-based access control (Doctor, HR, Nurse, etc.).
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 GitHub Insights
 
-### Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHEHAB7x&theme=dark&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHEHAB7x&theme=dark&hide_border=true" />
+</p>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-
-### Android Development
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge\&logo=jetpackcompose\&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge)
-
-### Architecture
-
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
-![MVVM](https://img.shields.io/badge/MVVM-6200EE?style=for-the-badge)
-![MVI](https://img.shields.io/badge/MVI-009688?style=for-the-badge)
-
-### Libraries & Tools
-
-![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge)
-![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge)
-![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge)
-![Flow](https://img.shields.io/badge/Flow-2196F3?style=for-the-badge)
-
-### Version Control
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=SHEHAB7x\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=SHEHAB7x\&theme=dark\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHEHAB7x\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
-
----
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=SHEHAB7x\&limit=5\&theme=radical\&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHEHAB7x&theme=dark&hide_border=true&layout=compact" />
+</p>
 
 ---
 
