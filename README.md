@@ -57,7 +57,7 @@
     *   *Tech:* Clean Architecture, REST APIs, Material Design 3.
 *   **[CarLog](https://github.com/SHEHAB7x/CarLog)**: Advanced driver behavior monitoring system.
     *   *Highlights:* OBD-II integration & Trip Analytics.
-*   **[Hospital Management System](https://github.com/SHEHAB7x/Hospital-Management)**: Multi-role hospital admin platform.
+*   **[Hospital Management System](https://github.com/SHEHAB7x/HospitalApp)**: Multi-role hospital admin platform.
     *   *Highlights:* Role-based access control (Doctor, HR, Nurse, etc.).
 
 ---
