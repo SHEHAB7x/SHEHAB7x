@@ -75,6 +75,7 @@ Whether you're looking for an Android Developer, have a project idea, or just wa
 
 [LinkedIn](https://www.linkedin.com/in/shehab0x/) | [Email](mailto:sabdalhares@gmail.com)
 
+
 <p align="center">
   <i>"Code is not just about making things work, it's about making them maintainable, scalable, and meaningful."</i>
 </p>
